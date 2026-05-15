@@ -11,7 +11,7 @@ Hello! I am Islam Asar, a Computer and Communication Engineering student. I am p
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/islam-asar
-- Email: semoahmed166@gmail.com 
+- Email: islamasar2004@gmail.com 
 
 Feel free to explore my repositories and get in touch if you have any questions or just want to connect!
 
